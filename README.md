@@ -10,3 +10,5 @@ Explanation, Analysis and Implementation of algorithms of Classic Problems which
 4. Infix to Prefix Conversion
 
 5. Evaluating a mathematical Expression
+
+6. Maximum Subarray Problem
