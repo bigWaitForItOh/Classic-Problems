@@ -12,3 +12,5 @@ Explanation, Analysis and Implementation of algorithms of Classic Problems which
 5. Evaluating a mathematical Expression
 
 6. Maximum Subarray Problem
+
+7. Sum of all substrings of a String (the string is a number)
