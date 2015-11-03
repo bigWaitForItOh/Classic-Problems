@@ -1,7 +1,7 @@
 # Classic-Problems
 Explanation, Analysis and Implementation of algorithms of Classic Problems which often arise in competitive programming and engineering problems.
 
-1. Knapsack Problem
+1. Knapsack Problem (Fractional and 0-1)
 
 2. Coin Change Problem
 
