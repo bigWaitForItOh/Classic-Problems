@@ -16,3 +16,5 @@ Explanation, Analysis and Implementation of algorithms of Classic Problems which
 7. Sum of all substrings of a String (the string is a number)
 
 8. Longest Increasing Subsequence
+
+9. Nim Sum
