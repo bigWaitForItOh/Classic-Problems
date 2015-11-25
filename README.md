@@ -16,3 +16,9 @@ Explanation, Analysis and Implementation of algorithms of Classic Problems which
 7. Job Sequence Problem
 
 8. Activity Selection Problem
+
+9. Nim sum
+
+10. N Queens Problem
+
+11. Subset Sum Problem
