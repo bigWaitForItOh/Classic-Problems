@@ -5,7 +5,7 @@
 ###########################################################################################################################
 
 def reduce (amount, coins, change):
-	if (not (amount and change)):
+	if (not (amount and coins)):
 		return (change);
 	if (coins [-1] > amount):
 		return (reduce (amount, coins [ : -1], change));
