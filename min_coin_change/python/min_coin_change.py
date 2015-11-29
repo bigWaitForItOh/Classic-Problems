@@ -9,7 +9,7 @@ def reduce (amount, coins, change):
 		return (change if amount == 0 else []);
 	if (coins [-1] > amount):
 		return (reduce (amount, coins [ : -1], change));
-	return (reduce (amount - coins [-1], coins, change + [coins [-1]]));
+	return (reduce (amount - (coins [-1] * (amount // coins [-1])), coins, change + ([coins [-1]] * (amount // coins [-1]))));
 
 #Input: Line 1 - Amount, Line 2 - List Space separated integers representing the coin values
 amount = int (input ());
