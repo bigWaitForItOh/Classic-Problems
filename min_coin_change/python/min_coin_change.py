@@ -1,5 +1,6 @@
 ###########################################################################################################################
-#Recursive Implementation of Minimum Coin Number Problem - http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
+#Recursive Implementation of Minimum Coin Change Problem - http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
+#NOTE: THIS PROBLEM IS DIFFERENT FROM THE COIN CHANGE PROBLEM
 #Time Complexity: O(nlog(n))
 ###########################################################################################################################
 
