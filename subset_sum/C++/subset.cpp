@@ -1,6 +1,5 @@
 /*
 	Subset Sum Problem - Determines whether a possible subset of the given set exists such that the sum of elements of the subset = target
-	Time Complexity: O(nlog (n))
 */
 
 #include <iostream>
@@ -31,8 +30,6 @@ int main () {
 	}
 	cout << "Target: "; cin >> target;
 
-	sort (numbers.begin (), numbers.end ());
 	cout << (subset_sum (target, numbers, numbers.size ()) ? "YES!" : "NO..") << endl;
-
 	return (0);
 }
