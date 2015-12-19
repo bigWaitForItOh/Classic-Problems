@@ -5,13 +5,9 @@
 
 def edit_dist (x, y):
 	if (not x):
-		if (not y):
-			return (0);
-		else:
-			return (len (y));
-	else:
-		if (not y):
-			return (len (x));
+		return (len (y));
+	if (not y):
+		return (len (x));
 
 	if (x [-1] == y [-1]):
 		return (edit_dist (x [ : -1], y [ : -1]));
