@@ -23,7 +23,6 @@ def get_char_key (digit, pos):
 	return (chars [digit] [pos-1]);
 
 def strings (number, digit_pos, string):
-	global results;
 	if (digit_pos < 0):
 		print (string);
 		return;
